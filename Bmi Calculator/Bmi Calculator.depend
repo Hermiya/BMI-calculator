@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644232091 source:/home/ebba/My projects/C++ Projects/New/Bmi Calculator/main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
